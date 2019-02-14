@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-epic_tragedy.delete[:montague => :hero] = {status:"alive"}
+epic_tragedy.delete[:montague( => :hero)] = {status:"alive"}
 epic_tragedy.delete[:capulet => :hero] = {status:"alive"}
   
 
